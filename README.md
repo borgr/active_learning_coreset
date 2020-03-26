@@ -6,7 +6,7 @@ Source code for ICLR 2018 Paper: Active Learning for Convolutional Neural Networ
 - additional_baselines:
   - This folder includes baselines as well as pytorch implementation of the CIFAR-10 VGG network training code.
 - coreset
-  - This folder includes the discrete optimization code which given feature emeddings, solves for core-sets. Its output chosen ids which is further used by learning code.
+  - This folder includes the discrete optimization code which given feature embeddings, solves for core-sets. Its output chosen ids which is further used by learning code.
 
 ## Training 
 
